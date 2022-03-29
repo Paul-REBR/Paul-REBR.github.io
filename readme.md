@@ -1,4 +1,3 @@
-My first website created with html,css bootstrap
 <!DOCTYPE html>
 <html>
 <head>
